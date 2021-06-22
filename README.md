@@ -2,7 +2,7 @@
 
 ## 概要
 
-1. (ITJOB 東京 23 区)[https://www.itjob.tokyo/]から企業名リストを取得。
+1. [ITJOB 東京 23 区](https://www.itjob.tokyo/)から企業名リストを取得。
 
 - requests
 - bs4
