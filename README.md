@@ -22,8 +22,15 @@ API の上限は 1 日 100 件 。それ以上は有料となる。
 
 
 ## 環境構築
-- Python
-- pip 
-- RemoteContainer
+VScode の拡張機能である RemoteContainer を利用している。  
+上記拡張機能をインストール後コマンドパレットから
+``` Remote-Containers : Reopen in Container ```
+を実行する。  
+本環境では、Python3 がインストールされた環境がインストールされる。
 
+
+.env ファイルを作成し、
+GOOGLE_API_KEY  
+CUSTOM_SEARCH_ENGINE_ID  
+を取得し追記する。
 
